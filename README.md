@@ -44,8 +44,8 @@ Em resumo: estou aqui para "desafogar" a gestão, documentar o que importa e aut
 |-------------------|-----------------------------------------------------------------------------------------------|
 | **Idiomas**    | Português, Inglês, Espanhol                                                                            |
 | **Infra & Cloud**   |AWS, Redes, Linux, Windows Server,                                                                                 |
-| **Banco de Dados**| Oracle, PostgreeSql                                                                                |
-| **Metodologias**  | SCRUM, Kanban, Agile                                                                                 |
+| **Banco de Dados**| Oracle, PostgreeSql                                                                               |
+| **Metodologias**  | SCRUM, Kanban, Agile, ITSM                                                                                |
 </div>
 
 
