@@ -79,16 +79,17 @@ Em resumo: estou aqui para "desafogar" a gestão, documentar o que importa e aut
 ## Ferramentas:
 <div align="center">
 
-[![VSCode](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)]()
-[![Eclipse](https://img.icons8.com/?size=50&id=pcHtLiSbkmzw&format=png&color=000000)]()
-[![IntelliJ](https://img.icons8.com/?size=50&id=61466&format=png&color=000000)]()
-[![PyCharm](https://img.icons8.com/?size=50&id=vinpBD5oA3b4&format=png&color=000000)]()
-[![Trello](https://img.icons8.com/?size=50&id=21049&format=png&color=000000)]()
-[![Notion](https://img.icons8.com/?size=50&id=nvtEH6DpqruC&format=png&color=000000)]()
-[![Figma](https://img.icons8.com/?size=50&id=zfHRZ6i1Wg0U&format=png&color=000000)]()
-[![Postgree](https://img.icons8.com/?size=50&id=Pv4IGT0TSpt8&format=png&color=000000)]()
-[![Oracle](https://img.icons8.com/?size=50&id=39913&format=png&color=000000)]()
-[![Office](https://img.icons8.com/?size=50&id=37619&format=png&color=000000)]()
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original.svg" alt="VMware" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pfsense/pfsense-original.svg" alt="pfSense" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zabbix/zabbix-original.svg" alt="Zabbix" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MS SQL Server" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" alt="n8n" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
 
 </div>
 
