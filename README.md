@@ -1,84 +1,102 @@
-<img src="https://raw.githubusercontent.com/pdrhenrick/pdrhenrick/main/banner.png" alt="Banner do Perfil">
+<img src='https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=120&section=header' width='100%'/>
 
-<div align="center">
-  <h1>Olá! 👋 Meu nome é Pedro Henrick</h1>
+![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Pedro.;&center=true&vCenter=true&size=45&width=1000&color=fe428e&font='Poppins')
+
+
+<div align='center'>
+
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=JenniferDaleffi&show_icons=true&theme=radical)
+
 </div>
 
+## Sobre mim
+
+Sou um profissional de Infraestrutura que acredita que nenhuma tarefa manual deveria ser executada duas vezes.
+
+Minha especialidade é construir pontes entre a Operação de Suporte (ITSM) e uma Infraestrutura estável (AWS, Linux, Redes), usando Automação (PowerShell, Bash) e Análise de Dados (Power BI) como minhas principais ferramentas.
+
+Em resumo: estou aqui para "desafogar" a gestão, documentar o que importa e automatizar todo o resto.
+
 <div align="center">
-  <a href="https://github.com/pdrhenrick">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdrhenrick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
+
+[![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/jenniferdaleffi/)
+[![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:jenniferdaleffii@gmail.com)
+[![Outlook](https://img.icons8.com/?size=50&id=117562&format=png&color=000000)](mailto:jenniferdaleffi@outlook.com)
+
 </div>
 
-### 👨‍💻 Sobre mim
-<p>
-  Sou <strong>Analista de Infraestrutura Pleno</strong> com 3 anos de experiência e perfil "híbrido".
-  <br><br>
-  Meu foco é usar <strong>Automação</strong> (PowerShell, n8n, Bash) e <strong>Dados</strong> (Power BI, SQL) para otimizar a <strong>Operação de Suporte (ITSM)</strong> e garantir a estabilidade da Infraestrutura (Linux, Windows, Redes, AWS). Sou proativo em 'desafogar' a gestão, eliminar tarefas manuais e documentar processos.
-</p>
 
-<p align="left">
-  <a href="http://www.linkedin.com/in/pedrosilva-ti" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:pedrohenrick200428@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</p>
 
-<hr>
+## 💻 Áreas
 
-### 🚀 Áreas
-Infra & DevOps, Automação de Processos.
 
-<br>
+### Infra & Devops
 
-### 💼 Minhas Competências
-| Área | Habilidades |
-| :--- | :--- |
-| **Automação** | PowerShell, Bash, n8n |
-| **Infra & Cloud** | Linux, Windows Server, AWS (EC2), Redes (VLANs, DHCP), Segurança (Firewall, pfSense), Virtualização (VMware) |
-| **Banco de Dados** | Oracle, MS SQL Server, Power BI |
-| **Monitoramento** | Zabbix |
-| **Metodologias** | ITSM, SCRUM, Kanban, Agile |
-| **Idiomas** | Português (Nativo), Inglês (Técnico) |
 
-<br>
 
-### 💻 Linguagens
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-</p>
 
-<br>
 
-### ⚙️ Frameworks
-<p align="left">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-
-### 🔧 Ferramentas
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original.svg" alt="VMware" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pfsense/pfsense-original.svg" alt="pfSense" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zabbix/zabbix-original.svg" alt="Zabbix" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MS SQL Server" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" alt="n8n" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-</p>
+## 👩‍💻 Minhas Competências
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrhenrick&layout=compact&langs_count=7&theme=dark"/>
+
+| Área              | Habilidades                                                                                   |
+|-------------------|-----------------------------------------------------------------------------------------------|
+| **Idiomas**    | Português, Inglês, Espanhol                                                                            |
+| **Office**   |Word, Excel, Power BI, PowerPoint, Power Apps, Power Automate                                                                                 |
+| **Banco de Dados**| Oracle, PostgreeSql                                                                                |
+| **Metodologias**  | SCRUM, Kanban, Agile                                                                                 |
+</div>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## Linguagens:
+<div align="center">
+
+[![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)]()
+[![Python](https://img.icons8.com/?size50&id=13441&format=png&color=000000)]()
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Frameworks:
+
+<div align="center">
+
+[![Next](https://img.icons8.com/?size=50&id=yUdJlcKanVbh&format=png&color=000000)]()
+[![Vite](https://img.icons8.com/?size=50&id=dJjTWMogzFzg&format=png&color=000000)]()
+
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Ferramentas:
+<div align="center">
+
+[![VSCode](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)]()
+[![Eclipse](https://img.icons8.com/?size=50&id=pcHtLiSbkmzw&format=png&color=000000)]()
+[![IntelliJ](https://img.icons8.com/?size=50&id=61466&format=png&color=000000)]()
+[![PyCharm](https://img.icons8.com/?size=50&id=vinpBD5oA3b4&format=png&color=000000)]()
+[![Trello](https://img.icons8.com/?size=50&id=21049&format=png&color=000000)]()
+[![Notion](https://img.icons8.com/?size=50&id=nvtEH6DpqruC&format=png&color=000000)]()
+[![Figma](https://img.icons8.com/?size=50&id=zfHRZ6i1Wg0U&format=png&color=000000)]()
+[![Postgree](https://img.icons8.com/?size=50&id=Pv4IGT0TSpt8&format=png&color=000000)]()
+[![Oracle](https://img.icons8.com/?size=50&id=39913&format=png&color=000000)]()
+[![Office](https://img.icons8.com/?size=50&id=37619&format=png&color=000000)]()
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferDaleffi&layout=compact&theme=radical)
+
+![Snake animation](https://github.com/JenniferDaleffi/JenniferDaleffi/blob/output/github-contribution-grid-snake.svg)
+
 </div>
