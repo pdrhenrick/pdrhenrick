@@ -40,12 +40,12 @@ Em resumo: estou aqui para "desafogar" a gestão, documentar o que importa e aut
 
 <div align="center">
 
-| Área              | Habilidades                                                                                   |
+| Área              | Habilidades                                                                                   |
 |-------------------|-----------------------------------------------------------------------------------------------|
-| **Idiomas**    | Português, Inglês, Espanhol                                                                            |
-| **Infra & Cloud**   |AWS, Redes, Linux, Windows Server,                                                                                 |
-| **Banco de Dados**| Oracle, PostgreeSql                                                                               |
-| **Metodologias**  | SCRUM, Kanban, Agile, ITSM                                                                                |
+| **Idiomas**    | Português, Inglês, Espanhol                  _                                                   |
+| **Infra & Cloud**   |AWS, Redes, Linux, Windows Server,                                                                                 |
+| **Banco de Dados**| Oracle, PostgreeSql                                                                               |
+| **Metodologias**  | SCRUM, Kanban, Agile, ITSM                                                                                |
 </div>
 
 
@@ -66,11 +66,11 @@ Em resumo: estou aqui para "desafogar" a gestão, documentar o que importa e aut
 ## Frameworks:
 
 <div align="center">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/>
 </div>
 
 </div>
@@ -96,8 +96,8 @@ Em resumo: estou aqui para "desafogar" a gestão, documentar o que importa e aut
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferDaleffi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrhenrick&layout=compact&theme=radical)
 
-![Snake animation](https://github.com/JenniferDaleffi/JenniferDaleffi/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/pdrhenrick/pdrhenrick/output/github-contribution-grid-snake.svg" alt="Pedro Henrick's contribution snake animation"/>
 
 </div>
