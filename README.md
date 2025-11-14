@@ -5,7 +5,7 @@
 
 <div align='center'>
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=JenniferDaleffi&show_icons=true&theme=radical)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenrick&show_icons=true&theme=radical)
 
 </div>
 
