@@ -66,9 +66,13 @@ Em resumo: estou aqui para "desafogar" a gestão, documentar o que importa e aut
 ## Frameworks:
 
 <div align="center">
-
-[![Next](https://img.icons8.com/?size=50&id=yUdJlcKanVbh&format=png&color=000000)]()
-[![Vite](https://img.icons8.com/?size=50&id=dJjTWMogzFzg&format=png&color=000000)]()
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/>
+</div>
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
