@@ -43,7 +43,7 @@ Em resumo: estou aqui para "desafogar" a gestão, documentar o que importa e aut
 | Área              | Habilidades                                                                                   |
 |-------------------|-----------------------------------------------------------------------------------------------|
 | **Idiomas**    | Português, Inglês, Espanhol                                                                            |
-| **Office**   |Word, Excel, Power BI, PowerPoint, Power Apps, Power Automate                                                                                 |
+| **Infra & Cloud**   |Linux, Windows Server, AWS, Redes,                                                                                 |
 | **Banco de Dados**| Oracle, PostgreeSql                                                                                |
 | **Metodologias**  | SCRUM, Kanban, Agile                                                                                 |
 </div>
