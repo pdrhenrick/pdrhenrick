@@ -28,7 +28,7 @@ Em resumo: estou aqui para "desafogar" a gestão, documentar o que importa e aut
 ## 💻 Áreas
 
 
-### Infra & Devops
+### Infra, Devops, Automação de Processos.
 
 
 
