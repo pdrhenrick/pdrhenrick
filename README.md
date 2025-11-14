@@ -24,7 +24,7 @@
   <a href="mailto:pedrohenrick200428@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  </p>
+</p>
 
 <hr>
 
@@ -33,14 +33,12 @@ Infra & DevOps, Automação de Processos.
 
 <br>
 
-### 💼 Minhas Competências (Tabela)
+### 💼 Minhas Competências
 | Área | Habilidades |
 | :--- | :--- |
 | **Automação** | PowerShell, Bash, n8n |
 | **Infra & Cloud** | Linux, Windows Server, AWS (EC2), Redes (VLANs, DHCP), Segurança (Firewall, pfSense), Virtualização (VMware) |
-| **Banco de Dados** | Oracle, MS SQL Server |
-| **Monitoramento** | Zabbix |
-| **Office & BI** | Power BI, Excel, Power Apps, Power Automate |
+| **Banco de Dados** | Oracle, MS SQL Server, Power BI |
 | **Metodologias** | ITSM, SCRUM, Kanban, Agile |
 | **Idiomas** | Português (Nativo), Inglês (Técnico) |
 
