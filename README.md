@@ -3,10 +3,12 @@
 ![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Pedro.;&center=true&vCenter=true&size=45&width=1000&color=fe428e&font='Poppins')
 
 
-<div align='center'>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pdrhenrick&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  
+  <br/>
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenrick&show_icons=true&theme=radical)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pdrhenrick&theme=tokyonight" />
 </div>
 
 ## Sobre mim
