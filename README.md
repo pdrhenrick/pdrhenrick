@@ -3,18 +3,14 @@
 ![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Pedro.;&center=true&vCenter=true&size=45&width=1000&color=fe428e&font='Poppins')
 
 <div align="center">
-  <a href="https://github.com/pdrhenrick?tab=repositories">
-    <img src="https://img.shields.io/github/public-repos/pdrhenrick?style=for-the-badge&logo=github&logoColor=white&color=764ABC"/>
+  <img src="https://komarev.com/ghpvc/?username=pdrhenrick&style=for-the-badge&color=764ABC&label=PROFILE+VIEWS" alt="Profile views" />
+
+  <a href="https://www.linkedin.com/in/pedrosilva-ti">
+    <img src="https://img.shields.io/badge/Status-Open_to_Work-2ea44f?style=for-the-badge&logo=linkedin"/>
   </a>
   
-  <a href="https://github.com/pdrhenrick">
-    <img src="https://img.shields.io/github/followers/pdrhenrick?style=for-the-badge&logo=github&logoColor=white&color=764ABC"/>
-  </a>
-  
-  <a href="https://github.com/pdrhenrick">
-    <img src="https://img.shields.io/github/stars/pdrhenrick?style=for-the-badge&logo=github&logoColor=white&color=764ABC"/>
-  </a>
-</div
+  <img src="https://img.shields.io/badge/Focus-Backend_&_DevOps-007EC6?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+</div>
 
 
 ## Sobre mim
