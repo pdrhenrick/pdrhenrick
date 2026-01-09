@@ -2,14 +2,19 @@
 
 ![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Pedro.;&center=true&vCenter=true&size=45&width=1000&color=fe428e&font='Poppins')
 
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pdrhenrick&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <a href="https://github.com/pdrhenrick?tab=repositories">
+    <img src="https://img.shields.io/github/public-repos/pdrhenrick?style=for-the-badge&logo=github&logoColor=white&color=764ABC"/>
+  </a>
   
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pdrhenrick&theme=tokyonight" />
-</div>
+  <a href="https://github.com/pdrhenrick">
+    <img src="https://img.shields.io/github/followers/pdrhenrick?style=for-the-badge&logo=github&logoColor=white&color=764ABC"/>
+  </a>
+  
+  <a href="https://github.com/pdrhenrick">
+    <img src="https://img.shields.io/github/stars/pdrhenrick?style=for-the-badge&logo=github&logoColor=white&color=764ABC"/>
+  </a>
+</div
 
 ## Sobre mim
 
