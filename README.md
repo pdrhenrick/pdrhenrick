@@ -3,13 +3,13 @@
 ![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Pedro.;&center=true&vCenter=true&size=45&width=1000&color=fe428e&font='Poppins')
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pdrhenrick&style=for-the-badge&color=21262d&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pdrhenrick&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
 
   <a href="https://www.linkedin.com/in/pedrosilva-ti">
-    <img src="https://img.shields.io/badge/Status-Open_to_Work-238636?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/Status-Open_to_Work-D32F2F?style=for-the-badge&logo=linkedin"/>
   </a>
   
-  <img src="https://img.shields.io/badge/Focus-Backend_&_DevOps-1f425f?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Backend_&_DevOps-000000?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
 </div>
 
 ## Sobre mim
