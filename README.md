@@ -96,7 +96,7 @@ Em resumo: estou aqui para "desafogar" a gestão, documentar o que importa e aut
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/pdrhenrick?template=classic&base=&languages=1&languages_limit=6&theme=dark&languages_sections=most-used" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pdrhenrick&theme=radical" />
 
 <img src="https://raw.githubusercontent.com/pdrhenrick/pdrhenrick/output/github-contribution-grid-snake.svg" alt="Pedro Henrick's contribution snake animation"/>
 
