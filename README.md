@@ -45,7 +45,7 @@ Em resumo: estou aqui para "desafogar" a gestão, documentar o que importa e aut
 
 | Área              | Habilidades                                                                                   |
 |-------------------|-----------------------------------------------------------------------------------------------|
-| **Idiomas**    | Português, Inglês, Espanhol                  _                                                   |
+| **Idiomas**    | Português, Inglês, Espanhol                                                                     |
 | **Infra & Cloud**   |AWS, Redes, Linux, Windows Server,                                                                                 |
 | **Banco de Dados**| Oracle, PostgreeSql                                                                               |
 | **Metodologias**  | SCRUM, Kanban, Agile, ITSM                                                                                |
