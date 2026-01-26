@@ -98,7 +98,7 @@ Em resumo: estou aqui para "desafogar" a gestão, documentar o que importa e aut
 <div align="center">
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHi&layout=compact&theme=radical&hide=csharp,html,css)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pdrhenrick&theme=radical" />
 
