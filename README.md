@@ -97,6 +97,9 @@ Em resumo: estou aqui para "desafogar" a gestão, documentar o que importa e aut
 
 <div align="center">
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHi&layout=compact&theme=radical)
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pdrhenrick&theme=radical" />
 
 <img src="https://raw.githubusercontent.com/pdrhenrick/pdrhenrick/output/github-contribution-grid-snake.svg" alt="Pedro Henrick's contribution snake animation"/>
