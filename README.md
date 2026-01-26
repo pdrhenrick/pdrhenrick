@@ -1,6 +1,7 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=120&section=header' width='100%'/>
 
-![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Pedro.;&center=true&vCenter=true&size=45&width=1000&color=fe428e&font='Poppins')
+![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Pedro+H.;&center=true&vCenter=true&size=45&width=1000&color=fe428e&font='Poppins')
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pdrhenrick&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
