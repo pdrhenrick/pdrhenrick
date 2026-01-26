@@ -4,13 +4,15 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pdrhenrick&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pdrhenrick&style=flat-square&color=fe428e&label=PROFILE+VIEWS" alt="Profile views" />
+  
+  <img src="https://img.shields.io/badge/Currently-Mobocare-blue?style=flat-square&logo=micro-strategy&logoColor=white" alt="Work" />
+
+  <img src="https://img.shields.io/badge/Focus-Infrastructure_%26_Java-fe428e?style=flat-square&logo=java&logoColor=white" alt="Focus" />
 
   <a href="https://www.linkedin.com/in/pedrosilva-ti">
-    <img src="https://img.shields.io/badge/Status-Open_to_Work-D32F2F?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <img src="https://img.shields.io/badge/Focus-Backend_&_DevOps-000000?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
 </div>
 
 ## Sobre mim
