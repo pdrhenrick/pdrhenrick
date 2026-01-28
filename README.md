@@ -15,9 +15,9 @@
 
 ## Sobre mim
 
-Sou um profissional de Infraestrutura que acredita que nenhuma tarefa manual deveria ser executada duas vezes.
-Minha especialidade é construir pontes entre a Operação de Suporte (ITSM) e uma Infraestrutura estável (AWS, Linux, Redes), usando Automação (PowerShell, Bash) e Análise de Dados (Power BI) como minhas principais ferramentas.
-Em resumo: estou aqui para "desafogar" a gestão, documentar o que importa e automatizar todo o resto.
+especialista em infraestrutura focado em viabilizar operações eficientes através da automação. meu objetivo é garantir que a base tecnológica seja sólida, escalável e, acima de tudo, inteligente.
+
+atualmente, dedico meus esforços na orquestração de ambientes on-premises e cloud, utilizando ferramentas de automação para eliminar tarefas repetitivas e garantir a integridade dos serviços.
 
 <div align="center">
 
