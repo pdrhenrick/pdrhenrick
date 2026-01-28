@@ -15,9 +15,9 @@
 
 ## Sobre mim
 
-especialista em infraestrutura focado em viabilizar operações eficientes através da automação. meu objetivo é garantir que a base tecnológica seja sólida, escalável e, acima de tudo, inteligente.
+Especialista em Infraestrutura focado em viabilizar operações eficientes através da Automação. Meu objetivo é garantir que a base tecnológica seja sólida, escalável e, acima de tudo, inteligente.
 
-atualmente, dedico meus esforços na orquestração de ambientes on-premises e cloud, utilizando ferramentas de automação para eliminar tarefas repetitivas e garantir a integridade dos serviços.
+Atualmente, dedico meus esforços na orquestração de ambientes on-premises e Cloud, utilizando ferramentas de automação para eliminar tarefas repetitivas e garantir a integridade dos serviços.
 
 <div align="center">
 
