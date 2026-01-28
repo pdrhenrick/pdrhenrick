@@ -6,7 +6,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pdrhenrick&style=flat-square&color=fe428e&label=PROFILE+VIEWS" alt="Profile views" />
   
-<img src="https://github-readme-stats.vercel.app/api?username=pdrhenrick&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="pedro's GitHub Stats" />
   <img src="https://img.shields.io/badge/Focus-Infrastructure_%26_Java-fe428e?style=flat-square&logo=java&logoColor=white" alt="Focus" />
 
   <a href="https://www.linkedin.com/in/pedrosilva-ti">
