@@ -1,0 +1,24 @@
+name: Update Company Name
+on:
+  schedule:
+    - cron: '0 0 * * *' # Roda todo dia à meia-noite
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Company
+        run: |
+          COMPANY=$(curl -s https://api.github.com/users/pdrhenrick | jq -r '.company')
+          # Se a empresa estiver vazia, coloca um texto padrão
+          if [ "$COMPANY" == "null" ]; then COMPANY="Freelancer"; fi
+          sed -i "//,//c\\n**Atualmente em:** $COMPANY\n" README.md
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update current company from profile" || exit 0
+          git push
