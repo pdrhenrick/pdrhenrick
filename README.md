@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pdrhenrick&style=flat-square&color=fe428e&label=PROFILE+VIEWS" alt="Profile views" />
   
-  <img src="https://img.shields.io/badge/Currently-Mobocare-blue?style=flat-square&logo=micro-strategy&logoColor=white" alt="Work" />
+<img src="https://github-readme-stats.vercel.app/api?username=pdrhenrick&show_icons=true&theme=radical&hide_border=true&include_all_commits=false&count_private=false&hide=stars,commits,prs,issues" alt="Trabalho Atual" />
 
   <img src="https://img.shields.io/badge/Focus-Infrastructure_%26_Java-fe428e?style=flat-square&logo=java&logoColor=white" alt="Focus" />
 
