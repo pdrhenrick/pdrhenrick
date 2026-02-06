@@ -97,7 +97,7 @@ Atualmente, dedico meus esforços na orquestração de ambientes on-premises e C
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats-xi-lac-30.vercel.app/api/top-langs/?username=pdrhenrick&layout=compact&theme=radical)
+![Top Langs]([https://github-readme-stats-xi-lac-30.vercel.app/api/top-langs/?username=pdrhenrick&layout=compact&theme=radical](https://github-readme-stats-xi-lac-30.vercel.app/api/top-langs/?username=pdrhenrick&layout=compact&theme=radical))
 
 <img src="https://raw.githubusercontent.com/pdrhenrick/pdrhenrick/output/github-contribution-grid-snake.svg" alt="Pedro Henrick's contribution snake animation"/>
 
